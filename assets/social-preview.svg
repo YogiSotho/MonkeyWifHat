@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="MonkeyWifHat social preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8f1df"/>
+      <stop offset="55%" stop-color="#f0e1bd"/>
+      <stop offset="100%" stop-color="#e7c17a"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7e8" stop-opacity="0.94"/>
+      <stop offset="100%" stop-color="#f4d590" stop-opacity="0.92"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1080" cy="95" r="180" fill="#b44921" fill-opacity="0.12"/>
+  <circle cx="150" cy="560" r="220" fill="#59613a" fill-opacity="0.12"/>
+  <rect x="62" y="56" width="1076" height="518" rx="34" fill="url(#card)" stroke="#1f1a16" stroke-opacity="0.08"/>
+  <text x="104" y="122" fill="#7a2f16" font-size="28" font-family="Trebuchet MS, sans-serif" letter-spacing="6">SOLANA MEME PROJECT FIELD MANUAL</text>
+  <text x="104" y="248" fill="#1f1a16" font-size="116" font-family="Georgia, serif" font-weight="700">MonkeyWifHat</text>
+  <text x="104" y="312" fill="#67594f" font-size="32" font-family="Trebuchet MS, sans-serif">A monkey. A hat. A suspicious amount of confidence.</text>
+  <text x="104" y="358" fill="#67594f" font-size="32" font-family="Trebuchet MS, sans-serif">The meme is primitive. The documentation is not.</text>
+  <rect x="104" y="416" width="170" height="48" rx="24" fill="#b44921" fill-opacity="0.14"/>
+  <rect x="290" y="416" width="160" height="48" rx="24" fill="#b44921" fill-opacity="0.14"/>
+  <rect x="466" y="416" width="130" height="48" rx="24" fill="#b44921" fill-opacity="0.14"/>
+  <text x="128" y="447" fill="#7a2f16" font-size="20" font-family="Trebuchet MS, sans-serif" font-weight="700">MONKEY DOCTRINE</text>
+  <text x="316" y="447" fill="#7a2f16" font-size="20" font-family="Trebuchet MS, sans-serif" font-weight="700">HAT PROTOCOL</text>
+  <text x="500" y="447" fill="#7a2f16" font-size="20" font-family="Trebuchet MS, sans-serif" font-weight="700">DOCS FIRST</text>
+  <g transform="translate(818 148)">
+    <ellipse cx="112" cy="46" rx="98" ry="28" fill="#31371d"/>
+    <path d="M44 0h136v72c0 18-14 32-32 32H76C58 104 44 90 44 72V0Z" fill="#59613a"/>
+    <ellipse cx="112" cy="96" rx="132" ry="20" fill="#2b3119"/>
+    <circle cx="112" cy="214" r="126" fill="#bc6d3c"/>
+    <ellipse cx="112" cy="236" rx="96" ry="82" fill="#e2ab69"/>
+    <circle cx="70" cy="208" r="18" fill="#1f1a16"/>
+    <circle cx="154" cy="208" r="18" fill="#1f1a16"/>
+    <path d="M58 286c18 24 90 24 108 0" fill="none" stroke="#1f1a16" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <text x="811" y="548" fill="#7a2f16" font-size="28" font-family="Trebuchet MS, sans-serif" font-weight="700">HAT STAYS ON</text>
+</svg>
