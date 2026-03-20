@@ -11,6 +11,8 @@ This wiki is written as the source of truth for the project voice, structure, an
 - [Project Overview](./Project-Overview.md)
 - [Brand and Lore](./Brand-and-Lore.md)
 - [Tokenomics](./Tokenomics.md)
+- [Liquidity Seeding Plan](./Liquidity-Seeding-Plan.md)
+- [Treasury Reporting Template](./Treasury-Reporting-Template.md)
 - [Launch Plan](./Launch-Plan.md)
 - [Community and Content](./Community-and-Content.md)
 - [Risk and Transparency](./Risk-and-Transparency.md)
@@ -20,6 +22,9 @@ This wiki is written as the source of truth for the project voice, structure, an
 - [FAQ](./FAQ.md)
 - [Glossary](./Glossary.md)
 - [Roadmap](./Roadmap.md)
+- [Annual Budget 2026-2027](./Annual-Budget-2026-2027.md)
+- [Future Game-Loop Mechanics](./Future-Game-Loop-Mechanics.md)
+- [Canonical Game Reputation Model](./Canonical-Game-Reputation-Model.md)
 
 ## House Rules
 

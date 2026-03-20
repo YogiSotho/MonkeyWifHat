@@ -13,6 +13,7 @@ The project should disclose:
 - the intended purpose of the token
 - whether there is a team allocation
 - how team-controlled tokens are handled
+- how treasury-controlled wallets are budgeted and reported
 - where official information is published
 - that participation involves real risk
 
@@ -27,6 +28,7 @@ Suggested wording:
 - one set of official links
 - one published source of token details
 - one published allocation explanation
+- one published treasury update cadence
 - no contradictory messaging across channels
 - corrections posted quickly when mistakes happen
 
@@ -50,3 +52,4 @@ If a sentence makes the project sound more exciting by making it less accurate, 
 - [Tokenomics](./Tokenomics.md)
 - [FAQ](./FAQ.md)
 - [Launch Plan](./Launch-Plan.md)
+- [Treasury Reporting Template](./Treasury-Reporting-Template.md)

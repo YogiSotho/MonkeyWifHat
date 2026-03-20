@@ -14,6 +14,10 @@ Before any public launch date is announced, have the following ready:
 - official accounts established
 - tokenomics page drafted
 - wallet disclosures prepared
+- liquidity seeding plan prepared and documented
+- initial pool size and paired-asset assumption documented
+- treasury reporting template prepared
+- first annual budget framework drafted
 - token details verified
 - FAQ written
 - moderation coverage ready
@@ -21,7 +25,7 @@ Before any public launch date is announced, have the following ready:
 ## Launch Sequence
 
 1. Publish the wiki and landing page.
-2. Publish tokenomics and wallet disclosures.
+2. Publish tokenomics, wallet disclosures, the liquidity seeding plan, and the treasury reporting template.
 3. Publish the official links list.
 4. Publish the token address only after final verification.
 5. Open community channels with pinned FAQ and risk statement.
@@ -43,6 +47,10 @@ Recommended themes:
 - verify official accounts
 - verify token identifier and address
 - verify allocation statement matches actual setup
+- verify liquidity seeding method and controlling wallet are disclosed
+- verify initial pool size and paired-asset amount are disclosed
+- verify the LP burn transaction or equivalent proof is published
+- verify treasury update cadence and reporting template are published
 - verify moderators have FAQ and escalation guidance
 - verify disclaimer language is visible everywhere that matters
 
@@ -62,3 +70,5 @@ Pause the process if any of these are true:
 - [Community and Content](./Community-and-Content.md)
 - [FAQ](./FAQ.md)
 - [Risk and Transparency](./Risk-and-Transparency.md)
+- [Liquidity Seeding Plan](./Liquidity-Seeding-Plan.md)
+- [Treasury Reporting Template](./Treasury-Reporting-Template.md)
