@@ -20,6 +20,16 @@ const articles = [
     summary: "Simple structure, visible allocations, and no detective-board token design."
   },
   {
+    title: "Liquidity Seeding Plan",
+    file: "./wiki/Liquidity-Seeding-Plan.md",
+    summary: "Framework for seeding launch liquidity cleanly, disclosing pool details, and burning LP positions."
+  },
+  {
+    title: "Treasury Reporting Template",
+    file: "./wiki/Treasury-Reporting-Template.md",
+    summary: "Standardized templates for annual budget frameworks, quarterly updates, and treasury disclosures."
+  },
+  {
     title: "Launch Plan",
     file: "./wiki/Launch-Plan.md",
     summary: "Funny on the outside, disciplined on the inside."
@@ -48,6 +58,21 @@ const articles = [
     title: "Roadmap",
     file: "./wiki/Roadmap.md",
     summary: "A narrow roadmap that only contains things worth saying out loud."
+  },
+  {
+    title: "Annual Budget 2026-2027",
+    file: "./wiki/Annual-Budget-2026-2027.md",
+    summary: "Lean, token-denominated Year 1 operating budget covering April 2026 through March 2027."
+  },
+  {
+    title: "Future Game-Loop Mechanics",
+    file: "./wiki/Future-Game-Loop-Mechanics.md",
+    summary: "Optional token participation loops, faucet/sink balance, and reputation separation."
+  },
+  {
+    title: "Canonical Game Reputation Model",
+    file: "./wiki/Canonical-Game-Reputation-Model.md",
+    summary: "Separates token ownership from canonical series standing and non-transferable reputation."
   }
 ];
 
